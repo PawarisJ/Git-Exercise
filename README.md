@@ -25,6 +25,7 @@ c) Update this README.md file:
 👤 1. Student Information
 
 Name: Pawaris Jearanaiyuenyong
+
 Email: 6630191921@student.chula.ac.th
 
 🖼️ 2. Picture
