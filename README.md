@@ -24,19 +24,20 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Pawaris Jearanaiyuenyong
+Email: 6630191921@student.chula.ac.th
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote](Picture/Quote.png) 
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![GIF](Animation/GITGIF.gif)
+![GIF](Animation/GITGIFa.gif) 
 
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+start Picture\Quote.png
 
 🎬 5. Video Lecture
